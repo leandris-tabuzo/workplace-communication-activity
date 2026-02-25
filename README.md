@@ -25,7 +25,7 @@ BEGIN
 
         PRINT "Team Lead: Excellent updates. Continue monitoring and GNPI me for urgent issues."
 
-        PRINT "The term 'patch' means a small software update to fix an issue."
+        PRINT "The term 'patch' means a small software update to fix an issue.."
     END FUNCTION
 
     CALL MorningSyncMeeting()
